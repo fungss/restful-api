@@ -1,5 +1,5 @@
 # restful-api
 
-A simple RESTful API written in NodeJS. To be containerized with Docker.
+A simple RESTful API written in NodeJS. To be containerized using Docker.
 
-Tech stack: PostgreSQL, ExpressJS, ReactJS, NodeJS
+Tech stack: MongoDB, ExpressJS, ReactJS, NodeJS
