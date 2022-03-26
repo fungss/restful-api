@@ -1,5 +1,7 @@
 # restful-api
 
-A simple RESTful API written in NodeJS. To be containerized using Docker.
+A flask app with RESTful API.
 
-Tech stack: MongoDB, Express, React, NodeJS
+Tech applied: Flask, Git, Docker
+
+Target tech stack: MongoDB, Express, React, NodeJS
