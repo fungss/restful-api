@@ -2,4 +2,4 @@ from flask import current_app
 
 @current_app.route("/")
 def hello_world():
-    return "<p>Hello, Ronald!</p>"
+    return "<p>Hello, hey!</p>"
